@@ -1,4 +1,4 @@
 # deanne
 json, python, excel
 
-You can convert json data with python to excel file with diagram.
+You can visualizise json data. Output: Excel file (.xlsx) with diagram.
